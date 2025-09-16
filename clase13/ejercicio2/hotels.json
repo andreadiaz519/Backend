@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "Hotel Paraíso", "roomsAvailable": 5 },
+  { "id": 2, "name": "Hotel Sol y Mar", "roomsAvailable": 2 },
+  { "id": 3, "name": "Hotel Montaña", "roomsAvailable": 0 }
+]
